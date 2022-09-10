@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>
+About Us
+</title>
+</head>
+<style>
+body{
+	background: url(green-nature.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+	color:white;
+	h1 {text-align: center;}
+}
+</style>
+</head>
+<body>
+<h1>
+<br><br><br><br><br><br><br>E-plant is an awarding platform where people get plants for some certain amount of tokens that they earn when they  shop in various platforms like Amazon, Swiggy and some service based companies. By this way we can increase greenery around us. We either gift a plant to a user or we plant a tree on his/her name in an area and give an update to the user. </h1>
+</div>
+</body>
+</html>
